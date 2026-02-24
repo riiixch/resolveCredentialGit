@@ -21,7 +21,7 @@
 
 1. Clone repository นี้ลงมาที่เครื่องของคุณ:
 ```cmd
-git clone [https://github.com/riiixch/resolveCredentialGit](https://github.com/riiixch/resolveCredentialGit)
+git clone https://github.com/riiixch/resolveCredentialGit
 
 ```
 
@@ -60,7 +60,7 @@ Open your Command Prompt (cmd) or Terminal and run the following commands:
 
 1. Clone this repository to your local machine:
 ```cmd
-git clone [https://github.com/riiixch/resolveCredentialGit](https://github.com/riiixch/resolveCredentialGit)
+git clone https://github.com/riiixch/resolveCredentialGit
 
 ```
 
