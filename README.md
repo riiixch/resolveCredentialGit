@@ -20,8 +20,8 @@
 เปิด Command Prompt (cmd) หรือ Terminal แล้วรันคำสั่งตามลำดับต่อไปนี้:
 
 1. Clone repository นี้ลงมาที่เครื่องของคุณ:
-   ```cmd
-   git clone [https://github.com/riiixch/resolveCredentialGit](https://github.com/riiixch/resolveCredentialGit)
+```cmd
+git clone [https://github.com/riiixch/resolveCredentialGit](https://github.com/riiixch/resolveCredentialGit)
 
 ```
 
