@@ -22,7 +22,7 @@ if %errorlevel% neq 0 (
 cls
 echo ===================================================
 echo     Git Cache Cleaner ^& Config Setup (Lab PC)
-echo             By: GitHub RIIIXCH
+echo          By: https://github.com/riiixch
 echo ===================================================
 echo.
 echo  Please select an option:
